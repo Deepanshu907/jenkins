@@ -40,7 +40,7 @@ Purpose: Fully automated the process — no need to manually tell Jenkins to sta
 ![alt text](<j7.jpg>)
 
 
-![alt text](<j8.jpg>)
+![alt text](<j8.png>)
 
 
 ![alt text](<j9.png>)
